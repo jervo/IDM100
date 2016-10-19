@@ -24,20 +24,20 @@
 
 ## Patterns / Textures
 
-[https://cottonbureau.com](https://cottonbureau.com
-[http://www.curiousspace.com](http://www.curiousspace.com
-[http://www.jeremyholmesstudio.com](http://www.jeremyholmesstudio.com
-[https://www.alfredapp.com](https://www.alfredapp.com
+- [https://cottonbureau.com](https://cottonbureau.com](https://cottonbureau.com](https://cottonbureau.com)
+- [http://www.curiousspace.com](http://www.curiousspace.com](http://www.curiousspace.com](http://www.curiousspace.com)
+- [http://www.jeremyholmesstudio.com](http://www.jeremyholmesstudio.com](http://www.jeremyholmesstudio.com](http://www.jeremyholmesstudio.com)
+- [https://www.alfredapp.com](https://www.alfredapp.com](https://www.alfredapp.com](https://www.alfredapp.com)
 
 ## Stock Photography
 
-[http://www.freeimages.com/](http://www.freeimages.com/
-[https://unsplash.com/](https://unsplash.com/
-[http://iStockphoto.com](http://iStockphoto.com
-[http://subtlepatterns.com](http://subtlepatterns.com
+- [http://www.freeimages.com/](http://www.freeimages.com/](http://www.freeimages.com/](http://www.freeimages.com/)
+- [https://unsplash.com/](https://unsplash.com/](https://unsplash.com/](https://unsplash.com/)
+- [http://iStockphoto.com](http://iStockphoto.com](http://iStockphoto.com](http://iStockphoto.com)
+- [http://subtlepatterns.com](http://subtlepatterns.com](http://subtlepatterns.com](http://subtlepatterns.com)
 
 ## Iconography
 
-[https://speckyboy.com/category/ui/](https://speckyboy.com/category/ui/
-[http://www.flaticon.com](http://www.flaticon.com
-[http://iconmonstr.com](http://iconmonstr.com
+- [https://speckyboy.com/category/ui/](https://speckyboy.com/category/ui/](https://speckyboy.com/category/ui/](https://speckyboy.com/category/ui/)
+- [http://www.flaticon.com](http://www.flaticon.com](http://www.flaticon.com](http://www.flaticon.com)
+- [http://iconmonstr.com](http://iconmonstr.com](http://iconmonstr.com](http://iconmonstr.com)

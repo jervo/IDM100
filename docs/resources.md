@@ -7,6 +7,7 @@
 - [Week 3](http://digm.drexel.edu/crs/IDM100/presentations/pdf/IDM100-W03.pdf)
 - [Week 4](http://digm.drexel.edu/crs/IDM100/presentations/pdf/IDM100-W04.pdf)
 - [Week 5](http://digm.drexel.edu/crs/IDM100/presentations/pdf/IDM100-W05.pdf)
+- [Week 6](http://digm.drexel.edu/crs/IDM100/presentations/pdf/IDM100-W06.pdf)
 
 ## Design
 
@@ -41,3 +42,19 @@
 - [https://speckyboy.com/category/ui/](https://speckyboy.com/category/ui/](https://speckyboy.com/category/ui/](https://speckyboy.com/category/ui/)
 - [http://www.flaticon.com](http://www.flaticon.com](http://www.flaticon.com](http://www.flaticon.com)
 - [http://iconmonstr.com](http://iconmonstr.com](http://iconmonstr.com](http://iconmonstr.com)
+
+## Themes
+
+- [http://www.codeinwp.com/blog/best-drag-and-drop-theme-builders/](http://www.codeinwp.com/blog/best-drag-and-drop-theme-builders/)
+- [http://www.themeforest.com](http://www.themeforest.com)
+- [http://www.wpzoom.com](http://www.wpzoom.com)
+- [http://www.cssigniter.com/ignite/themes](http://www.cssigniter.com/ignite/themes)
+- [http://www.mojo-themes.com](http://www.mojo-themes.com)
+- [http://www.themefuse.com](http://www.themefuse.com)
+- [http://themify.me](http://themify.me)
+- [https://www.theme-junkie.com](https://www.theme-junkie.com)
+- [http://www.studiopress.com](http://www.studiopress.com)
+- [http://www.elegantthemes.com](http://www.elegantthemes.com)
+- [http://diythemes.com](http://diythemes.com)
+- [https://www.woothemes.com](https://www.woothemes.com)
+- [https://graphpaperpress.com](https://graphpaperpress.com)

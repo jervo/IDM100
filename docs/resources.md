@@ -8,6 +8,7 @@
 - [Week 4](http://digm.drexel.edu/crs/IDM100/presentations/pdf/IDM100-W04.pdf)
 - [Week 5](http://digm.drexel.edu/crs/IDM100/presentations/pdf/IDM100-W05.pdf)
 - [Week 6](http://digm.drexel.edu/crs/IDM100/presentations/pdf/IDM100-W06.pdf)
+- [Week 7](http://digm.drexel.edu/crs/IDM100/presentations/pdf/IDM100-W07.pdf)
 
 ## Design
 
@@ -44,7 +45,11 @@
 - [http://www.flaticon.com](http://www.flaticon.com](http://www.flaticon.com](http://www.flaticon.com)
 - [http://iconmonstr.com](http://iconmonstr.com](http://iconmonstr.com](http://iconmonstr.com)
 
-## Themes
+## WP Installation
+
+- [WordPress Walkthrough Series (1 of 10) - Overview & Installation](http://www.youtube.com/watch?v=zQ-eL7zH6rQ&t=1m38s)
+
+## WP Themes
 
 - [http://www.codeinwp.com/blog/best-drag-and-drop-theme-builders/](http://www.codeinwp.com/blog/best-drag-and-drop-theme-builders/)
 - [http://www.themeforest.com](http://www.themeforest.com)
@@ -59,3 +64,7 @@
 - [http://diythemes.com](http://diythemes.com)
 - [https://www.woothemes.com](https://www.woothemes.com)
 - [https://graphpaperpress.com](https://graphpaperpress.com)
+
+## WP Media
+
+- [WP Embeds](https://codex.wordpress.org/Embeds)

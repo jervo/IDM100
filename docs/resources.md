@@ -11,7 +11,7 @@
 - [Week 7](http://digm.drexel.edu/crs/IDM100/presentations/pdf/IDM100-W07.pdf)
 - [Week 8](http://digm.drexel.edu/crs/IDM100/presentations/pdf/IDM100-W08.pdf)
 - [Week 9](http://digm.drexel.edu/crs/IDM100/presentations/pdf/IDM100-W09.pdf)
-- [Week 10](http://digm.drexel.edu/crs/IDM100/presentations/pdf/IDM100-W010.pdf)
+- [Week 10](http://digm.drexel.edu/crs/IDM100/presentations/pdf/IDM100-W10.pdf)
 
 ## Design
 

@@ -37,10 +37,10 @@
 
 ## Stock Photography
 
-- [freeimages.com/](http://www.freeimages.com/](http://www.freeimages.com/](http://www.freeimages.com/)
-- [unsplash.com/](https://unsplash.com/](https://unsplash.com/](https://unsplash.com/)
-- [iStockphoto.com](http://iStockphoto.com](http://iStockphoto.com](http://iStockphoto.com)
-- [subtlepatterns.com](http://subtlepatterns.com](http://subtlepatterns.com](http://subtlepatterns.com)
+- [freeimages.com/](http://www.freeimages.com/)
+- [unsplash.com/](https://unsplash.com/)
+- [iStockphoto.com](http://iStockphoto.com)
+- [subtlepatterns.com](http://subtlepatterns.com)
 
 ## Iconography
 

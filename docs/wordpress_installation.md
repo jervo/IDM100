@@ -73,6 +73,6 @@ Add Additional Security
     1. Rename config file
     1. Edit config file on the server
 
-#### References
+### References
 
 - [http://www.ejhansel.com/installing-wordpress-on-bluehost-com/](http://www.ejhansel.com/installing-wordpress-on-bluehost-com/)
